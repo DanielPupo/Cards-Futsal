@@ -59,6 +59,8 @@ header {
 }
 
 footer {
+    padding: 30px;
+    font-size: 25px;
     height: 65px;
     background-color: black;
     color: antiquewhite;
